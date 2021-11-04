@@ -1,0 +1,2 @@
+class InputLayer:
+    pass

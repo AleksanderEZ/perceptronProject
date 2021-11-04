@@ -1,0 +1,2 @@
+class OutputLayer:
+    pass
